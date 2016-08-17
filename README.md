@@ -1,4 +1,4 @@
-# ios_tesseract3.0.4                                                                                                        
+# ios_tesseract3.0.4 编译                                                                                                    
 1,编译tesseract的系统环境                                                                                                  
     mac系统版本：OS X  10.11.6                                                                                             
     Xcode版本：Version 7.3.2                                                                                                 
